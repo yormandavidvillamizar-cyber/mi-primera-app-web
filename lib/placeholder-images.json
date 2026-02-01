@@ -1,0 +1,22 @@
+{
+  "placeholderImages": [
+    {
+      "id": "login-cow",
+      "description": "Vaca lechera en el campo para la pantalla de inicio de sesión.",
+      "imageUrl": "https://images.unsplash.com/photo-1593023333594-487b2f7dd415?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxkYWlyeSUyMGNvd3xlbnwwfHx8fDE3Njk5MjI0MzR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "dairy cow"
+    },
+    {
+      "id": "farm-map",
+      "description": "Plano ilustrativo de una finca para la sección de rotación de potreros.",
+      "imageUrl": "https://storage.googleapis.com/static.studio.app/ag-map-base.jpg",
+      "imageHint": "farm map"
+    },
+    {
+      "id": "farm-map-numbered",
+      "description": "Plano ilustrativo de una finca con potreros numerados.",
+      "imageUrl": "https://storage.googleapis.com/static.studio.app/ag-map-base.jpg",
+      "imageHint": "farm map numbered"
+    }
+  ]
+}
